@@ -1,5 +1,5 @@
 Applied Deep Learning: Implementing CNN Architectures
-This repository contains implementations and pre-trained models for various Convolutional Neural Network (CNN) architectures, ranging from foundational to advanced designs. These resources are part of the "Applied Deep Learning" series.
+This repository contains implementations and pre-trained models for various Convolutional Neural Network (CNN) architectures, ranging from foundational to advanced designs, focused on image classification using the VGG16 and VGG19 architectures. The notebook includes detailed implementations, explanations of the architectures, and use cases for deep learning in image classification tasks. These resources are part of the "Applied Deep Learning" series.
 
 
 ## Large Files

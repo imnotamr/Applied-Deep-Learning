@@ -3,8 +3,12 @@ This repository contains implementations and pre-trained models for various Conv
 
 
 ## Large Files
-The pre-trained models are too large for GitHub. You can download AlexNet.h5 from
+The pre-trained model (AlexNet) are too large for GitHub. You can download it from
 [Google Drive] (https://drive.google.com/file/d/15XuAMMx2Iw5GPsS7x9Qz1wtkzsa6CQ87/view?usp=drive_link)
+
+## Images
+Contains all images used in the project, These images are referenced in notebooks and documentation
+[Dropbox]([https://your-link-here](https://www.dropbox.com/scl/fo/0dsnw3wbztbya3yvu6l5t/ADquxSfF_NSxUH6Wo0Td6UI?rlkey=u6hfak0bwx4tj407v3ooghnln&st=ovoacchc&dl=0))
 
 
 

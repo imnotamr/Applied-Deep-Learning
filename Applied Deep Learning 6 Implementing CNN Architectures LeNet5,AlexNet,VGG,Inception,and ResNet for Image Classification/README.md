@@ -9,8 +9,7 @@ The pre-trained model (AlexNet) are too large for GitHub. You can download it fr
 
 ## Images
 Contains all images used in the project, These images are referenced in notebooks and documentation
-[Dropbox]((https://www.dropbox.com/scl/fo/0dsnw3wbztbya3yvu6l5t/ADquxSfF_NSxUH6Wo0Td6UI?rlkey=u6hfak0bwx4tj407v3ooghnln&st=ovoacchc&dl=0))
-
+[Dropbox](https://www.dropbox.com/scl/fo/0dsnw3wbztbya3yvu6l5t/ADquxSfF_NSxUH6Wo0Td6UI?rlkey=u6hfak0bwx4tj407v3ooghnln&st=fwkpamd2&dl=0)
 
 
 📂 Files and Descriptions

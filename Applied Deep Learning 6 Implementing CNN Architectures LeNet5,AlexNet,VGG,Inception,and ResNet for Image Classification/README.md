@@ -1,6 +1,11 @@
 Applied Deep Learning: Implementing CNN Architectures
 This repository contains implementations and pre-trained models for various Convolutional Neural Network (CNN) architectures, ranging from foundational to advanced designs. These resources are part of the "Applied Deep Learning" series.
 
+## Large Files
+The pre-trained models are too large for GitHub. You can download AlexNet.h5 from
+[Google Drive]([https://your-link-here](https://drive.google.com/file/d/15XuAMMx2Iw5GPsS7x9Qz1wtkzsa6CQ87/view?usp=drive_link))
+
+
 📂 Files and Descriptions
 1. LeNet.h5
 Description: Pre-trained model of the LeNet architecture.
